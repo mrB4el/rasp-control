@@ -1,5 +1,5 @@
-# rasp-control
-Controlling Rasberry Pi 2 via Windows Phone
+# Two Bank Apps
+Website + ManagerApp for virtual banking company.
 
-Server-side: Python
-Client-side: UAP (C# + Net)
+Server-side: PHP
+Client-side: C# + .NET
